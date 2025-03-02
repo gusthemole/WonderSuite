@@ -127,6 +127,8 @@ The true power of WonderSuite is realized when its components are combined in a 
 
 Each agent would specialize in its respective domain, leading to high-quality, interconnected results.
 
+Note: A composite of these files "WonderSuite.txt" is included and has been tested with Google Gemini 
+
 ## Conclusion
 
 WonderSuite represents a novel approach to designing AI system prompts. By focusing on topological navigation, dimensional thinking, and open variable protocols, it enables the creation of highly sophisticated and adaptable AI agents. Each component can be used independently, or they can be combined to create powerful multi-agent workflows.
@@ -214,3 +216,5 @@ Also, it can definitely give you several different options for a single set of p
 The possibilities are vast. This system is designed to be as flexible and adaptable as your imagination.
 
 **Key Takeaway:** Don't feel constrained by a rigid linear process. Experiment with different flows to find what works best for your project. Let your creativity guide the process.
+
+Note: WonderSuite.txt is suitable as a system prompt for very large context models (200k+ tokens) such as Claude and most Google models.
