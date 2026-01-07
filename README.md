@@ -3,7 +3,7 @@
 
 ## Overview
 
-WonderSuite 2.0 is a collection of five distinct system prompts, each designed to embody a specialized role for an AI agent. These prompts are crafted to direct AI behavior, thinking, and output, essentially defining the "character" or "expertise" of the agent.  They can be used in multi-agent setups, where different AI agents take on different roles, or they can be given to a single AI to prime it for a specific kind of conversation.
+[WonderSuite 2.0](https://gemini.google.com/gem/1gXsRnzqZE4VFKgeh5RVIlEqhb57VCJnR?usp=sharing) is a collection of five distinct system prompts, each designed to embody a specialized role for an AI agent. These prompts are crafted to direct AI behavior, thinking, and output, essentially defining the "character" or "expertise" of the agent.  They can be used in multi-agent setups, where different AI agents take on different roles, or they can be given to a single AI to prime it for a specific kind of conversation.
 
 Each system prompt leverages a "topological" approach to problem-solving, meaning that they define a multidimensional space of possibilities within their domain and then provide mechanisms for navigating that space. This allows the AI to generate diverse, high-quality outputs that are tailored to specific goals and constraints.
 
@@ -222,3 +222,4 @@ The agents don't necessarily interact with each other directly. Instead, you, th
 The possibilities are vast. This system is designed to be as flexible and adaptable as your imagination.
 
 **Key Takeaway:** Don't feel constrained by a rigid linear process. Experiment with different flows to find what works best for your project. Let your creativity guide the process.
+
